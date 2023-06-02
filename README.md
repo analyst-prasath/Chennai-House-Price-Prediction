@@ -53,5 +53,3 @@ The following dependencies are required to run this project:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-Feel free to customize and adapt this markdown content to document your Chennai House Price Prediction project.
